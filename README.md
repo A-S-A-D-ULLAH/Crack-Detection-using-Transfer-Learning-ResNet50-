@@ -8,3 +8,9 @@ This project can be useful for anyone who needs to detect cracks in images, whet
 ## Dataset
 
 ![2](2.jpg) ![3](3.jpg)
+
+## Accuracy
+![accuracy](accuracy.jpg)
+
+##Loss Graph
+![11](11.jpg)
