@@ -5,5 +5,6 @@ The code in this repository includes the script for training the ResNet50 model 
 
 This project can be useful for anyone who needs to detect cracks in images, whether it be for building inspections, infrastructure maintenance, or any other application.
 
-##Dataset
-![2](2.jpg)
+## Dataset
+
+![2](2.jpg) ![3](3.jpg)
