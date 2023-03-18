@@ -16,7 +16,7 @@ The dataset used in this project was downloaded from Kaggle and consists of 40,0
 The images in the dataset are of various sizes and resolutions. To prepare the images for training the ResNet50 model, they were resized to 224x224 pixels and normalized.
 The dataset is included in this repository under the dataset directory. The positive and negative images are stored in separate subdirectories, dataset/positive and dataset/negative, respectively.
 This dataset can be used to train and evaluate models for detecting cracks in building surfaces. However, it is important to note that the dataset may not be representative of all real-world scenarios and may require additional data to improve model performance.
- ![3](3.jpg) ![2](2.jpg)
+ ![3](3.jpg) 
 
 ## Accuracy
 
