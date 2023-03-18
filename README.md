@@ -4,3 +4,6 @@ This project is aimed at detecting cracks in images using transfer learning with
 The code in this repository includes the script for training the ResNet50 model on the dataset, as well as the script for using the trained model to detect cracks in new images. The dataset used for training and testing the model is also included.
 
 This project can be useful for anyone who needs to detect cracks in images, whether it be for building inspections, infrastructure maintenance, or any other application.
+
+##Dataset
+![2](2.jpg)
